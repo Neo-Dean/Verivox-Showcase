@@ -114,23 +114,16 @@ Treatment can never run without confirmation, and there is no scheduled or auton
 **Dispense pH Treatment**
 <p align="center"> <img src="assets/seq-ph-treatment.png" alt="System pH Treatment" width="90%"> </p>
 
-### Mobile App Wireframes
+### Mobile App Screenshots
 
 **Dashboard**
+<p align="center"> <img src="assets/system-dashboard.png" alt="System Dashboard" width="90%"> </p>
 
-![Dashboard](screenshots/wireframe-dashboard.png)
+**Real-Time Monitoring**
+<p align="center"> <img src="assets/system-monitoring.png" alt="System Real-Time Monitorin" width="90%"> </p>
 
-**Feeding Schedule**
-
-![Feeding Schedule](screenshots/wireframe-schedule.png)
-
-**pH Alert and Confirmation**
-
-![pH Alert](screenshots/wireframe-ph-alert.png)
-
-**Feeding Log and Trends**
-
-![Feeding Log](screenshots/wireframe-logs.png)
+**Log and History**
+<p align="center"> <img src="assets/system-history.png" alt="System Log and History" width="90%"> </p>
 
 ## Development Methodology
 The project follows the Waterfall model, chosen because hardware components and cloud infrastructure must be fully specified and procured before implementation, and because the safety-critical pH treatment feature needs careful verification at each stage.
