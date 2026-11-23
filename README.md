@@ -39,7 +39,7 @@ The features below describe the designed system.
 - 🗂️ **Event logging** of feeding, skips, alerts, and treatment events with an audit trail
 
 ## System Architecture
-<p align="center"> <img src="assets/block-diagram.png" alt="System Block Diagram" width="90%"> </p>
+<p align="center"> <img src="assets/block-diagram.jpg" alt="System Block Diagram" width="90%"> </p>
 
 The Arduino Nano 33 IoT acts as the central controller. It reads the sensors, runs the feeding decision logic, drives the actuators, and synchronises with Arduino IoT Cloud over Wi-Fi.
 
