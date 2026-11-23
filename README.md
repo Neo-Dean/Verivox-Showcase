@@ -117,13 +117,13 @@ Treatment can never run without confirmation, and there is no scheduled or auton
 ### Mobile App Screenshots
 
 **Dashboard**
-<p align="center"> <img src="assets/system-dashboard.png" alt="System Dashboard" width="90%"> </p>
+<p align="center"> <img src="assets/system-dashboard.png" alt="System Dashboard" width="350"> </p>
 
 **Real-Time Monitoring**
-<p align="center"> <img src="assets/system-monitoring.png" alt="System Real-Time Monitorin" width="90%"> </p>
+<p align="center"> <img src="assets/system-monitoring.png" alt="System Real-Time Monitorin" width="350"> </p>
 
 **Log and History**
-<p align="center"> <img src="assets/system-history.png" alt="System Log and History" width="90%"> </p>
+<p align="center"> <img src="assets/system-history.png" alt="System Log and History" width="350"> </p>
 
 ## Development Methodology
 The project follows the Waterfall model, chosen because hardware components and cloud infrastructure must be fully specified and procured before implementation, and because the safety-critical pH treatment feature needs careful verification at each stage.
