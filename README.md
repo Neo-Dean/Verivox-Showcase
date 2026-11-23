@@ -110,11 +110,11 @@ Treatment can never run without confirmation, and there is no scheduled or auton
 
 **Perform Automated Smart Feeding**
 
-![Smart Feeding Sequence](screenshots/seq-smart-feeding.png)
+![Smart Feeding Sequence](assets/seq-smart-feeding.png)
 
 **Dispense pH Treatment**
 
-![pH Treatment Sequence](screenshots/seq-ph-treatment.png)
+![pH Treatment Sequence](assets/seq-ph-treatment.png)
 
 ### Mobile App Wireframes
 
