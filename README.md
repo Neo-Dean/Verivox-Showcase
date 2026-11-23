@@ -39,6 +39,8 @@ The features below describe the designed system.
 - 🗂️ **Event logging** of feeding, skips, alerts, and treatment events with an audit trail
 
 ## System Architecture
+
+### Block Diagram
 <p align="center"> <img src="assets/block-diagram.jpg" alt="System Block Diagram" width="90%"> </p>
 
 The Arduino Nano 33 IoT acts as the central controller. It reads the sensors, runs the feeding decision logic, drives the actuators, and synchronises with Arduino IoT Cloud over Wi-Fi.
@@ -99,8 +101,7 @@ Treatment can never run without confirmation, and there is no scheduled or auton
 ## Design Documentation
 
 ### Use Case Diagram
-
-![Use Case Diagram](assets/use-case-diagram.png)
+<p align="center"> <img src="assets/use-case-diagram.png" alt="System Use Case Diagram" width="90%"> </p>
 
 ### Class Diagram
 
