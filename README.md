@@ -197,8 +197,8 @@ If you notice a documentation issue, broken link, or typo, or have professional 
 Please do not use public issues to request private source code, credentials, or other sensitive project data.
 
 ### Connect With Me
-GitHub: @Neo-Dean /p
-LinkedIn: Syajaratul Diana Bt A.Razak /p
+GitHub: @Neo-Dean /n
+LinkedIn: Syajaratul Diana Bt A.Razak /n
 Email: syajaratuldianarazak@gmail.com
 
 ### License
