@@ -112,7 +112,7 @@ Treatment can never run without confirmation, and there is no scheduled or auton
 <p align="center"> <img src="assets/seq-smart-feeding.png" alt="System Automated Smart Feeding" width="90%"> </p>
 
 **Dispense pH Treatment**
-<p align="center"> <img src="assets/seq-ph-treatment.png" alt="System pH Treatment" width="90%"> </p>
+<p align="center"> <img src="assets/seq-ph-treatment.png" alt="System pH Treatment" width="90%"> </p>  
 
 ### Mobile App Screenshots
 
@@ -124,6 +124,9 @@ Treatment can never run without confirmation, and there is no scheduled or auton
 
 **Log and History**
 <p align="center"> <img src="assets/system-history.png" alt="System Log and History" width="350"> </p>
+
+## 3D Model
+🔍 [**View interactive 3D model**](assets/feeder-model.stl). Click, then drag to rotate and scroll to zoom.
 
 ## Development Methodology
 The project follows the Waterfall model, chosen because hardware components and cloud infrastructure must be fully specified and procured before implementation, and because the safety-critical pH treatment feature needs careful verification at each stage.
