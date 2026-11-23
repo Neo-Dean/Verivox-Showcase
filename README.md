@@ -156,10 +156,10 @@ Possible future work: machine-learning-based feeding optimisation, multi-tank su
 Syajaratul Diana Binti A. Razak Bachelor of Computer Science with Honours (Software Engineering) Universiti Malaysia Sarawak (UNIMAS)
 
 ### Supervisors
-Puan Eaqerzilla Phang 
-Puan Seleviawati bt Tarmizi  
+Puan Eaqerzilla Phang       
+Puan Seleviawati bt Tarmizi       
 
-##Repository Privacy Notice
+## Repository Privacy Notice
 This public showcase intentionally does not include:
 
 Firmware source code
