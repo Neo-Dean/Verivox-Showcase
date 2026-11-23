@@ -104,18 +104,15 @@ Treatment can never run without confirmation, and there is no scheduled or auton
 <p align="center"> <img src="assets/use-case-diagram.png" alt="System Use Case Diagram" width="90%"> </p>
 
 ### Class Diagram
-
-![Class Diagram](assets/class-diagram.png)
+<p align="center"> <img src="assets/class-diagram.png" alt="System Class Diagram" width="90%"> </p>
 
 ### Sequence Diagrams
 
 **Perform Automated Smart Feeding**
-
-![Smart Feeding Sequence](assets/seq-smart-feeding.png)
+<p align="center"> <img src="assets/seq-smart-feeding.png" alt="System Automated Smart Feeding" width="90%"> </p>
 
 **Dispense pH Treatment**
-
-![pH Treatment Sequence](assets/seq-ph-treatment.png)
+<p align="center"> <img src="assets/seq-ph-treatment.png" alt="System pH Treatment" width="90%"> </p>
 
 ### Mobile App Wireframes
 
