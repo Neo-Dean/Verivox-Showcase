@@ -23,20 +23,20 @@ Project Status
 
 ## Key Features
 
-The features below describe the designed system. 
+The features below describe the designed system.
 
-🍽️ Scheduled feeding with servo-based portion control
-🧠 Intelligent feeding control that skips feeding when pH, turbidity, or TDS is unsuitable
-🌡️ Water quality monitoring of pH, temperature, TDS, and turbidity
-🔔 pH alerts as push notifications when pH leaves the safe range (6.5–8.5)
-🧪 User-confirmed pH treatment where the peristaltic pump runs only after an explicit app confirmation
-📲 Remote access via Arduino IoT Cloud and the Arduino IoT Remote app
-📡 IR remote backup for offline local control when Wi-Fi is down
-✅ Detailed feeding confirmation alerts that include a water quality snapshot
-📈 Predictive analytics for food depletion forecasting and pH trend analysis
-📦 Food level detection with an ultrasonic sensor
-🖥️ Local LCD display for at-a-glance status
-🗂️ Event logging of feeding, skips, alerts, and treatment events with an audit trail
+- 🍽️ **Scheduled feeding** with servo-based portion control
+- 🧠 **Intelligent feeding control** that skips feeding when pH, turbidity, or TDS is unsuitable
+- 🌡️ **Water quality monitoring** of pH, temperature, TDS, and turbidity
+- 🔔 **pH alerts** as push notifications when pH leaves the safe range (6.5–8.5)
+- 🧪 **User-confirmed pH treatment** where the peristaltic pump runs only after an explicit app confirmation
+- 📲 **Remote access** via Arduino IoT Cloud and the Arduino IoT Remote app
+- 📡 **IR remote backup** for offline local control when Wi-Fi is down
+- ✅ **Detailed feeding confirmation alerts** that include a water quality snapshot
+- 📈 **Predictive analytics** for food depletion forecasting and pH trend analysis
+- 📦 **Food level detection** with an ultrasonic sensor
+- 🖥️ **Local LCD display** for at-a-glance status
+- 🗂️ **Event logging** of feeding, skips, alerts, and treatment events with an audit trail
 
 ## System Architecture
 <p align="center"> <img src="assets/block-diagram.png" alt="System Block Diagram" width="90%"> </p>
@@ -208,8 +208,9 @@ Please do not use public issues to request private source code, credentials, or 
 ### Connect With Me
 GitHub: @your-username
 LinkedIn: Your Name
-Email: your-email@example.com
-License
+Email: syajaratuldianarazak@gmail.com
+
+### License
 
 Copyright © 2026 Syajaratul Diana Binti A. Razak. All rights reserved.
 
