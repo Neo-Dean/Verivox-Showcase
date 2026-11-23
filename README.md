@@ -1,5 +1,5 @@
 # Verivox-Showcase
-Public showcase of a Smart Automatic Fish Feeder: Arduino IoT system with water quality monitoring, user-confirmed pH treatment, and cloud remote access.
+![Verivox Banner](assets/banner.png)
 
 ## About the Project
 
