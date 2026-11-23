@@ -104,7 +104,7 @@ Treatment can never run without confirmation, and there is no scheduled or auton
 <p align="center"> <img src="assets/use-case-diagram.png" alt="System Use Case Diagram" width="90%"> </p>
 
 ### Class Diagram
-<p align="center"> <img src="assets/class-diagram.png" alt="System Class Diagram" width="90%"> </p>
+<p align="center"> <img src="assets/class-diagram.jpg" alt="System Class Diagram" width="90%"> </p>
 
 ### Sequence Diagrams
 
