@@ -97,16 +97,42 @@ The pump activates, and the event is written to the audit log.
 Treatment can never run without confirmation, and there is no scheduled or autonomous dosing.
 
 ## Design Documentation
+
 ### Use Case Diagram
-<p align="center"> <img src="assets/use-case-diagram.png" alt="Use Case Diagram" width="85%"> </p>
+
+![Use Case Diagram](assets/use-case-diagram.png)
+
 ### Class Diagram
-<p align="center"> <img src="assets/class-diagram.png" alt="Class Diagram" width="85%"> </p>
+
+![Class Diagram](assets/class-diagram.png)
+
 ### Sequence Diagrams
-Perform Automated Smart Feeding	Dispense pH Treatment
-<img src="screenshots/seq-smart-feeding.png" width="100%">	<img src="screenshots/seq-ph-treatment.png" width="100%">
-### Mobile App Screenshot
-Dashboard	Feeding Schedule	pH Alert & Confirmation	Feeding Log & Trends
-<img src="screenshots/wireframe-dashboard.png" width="100%">	<img src="screenshots/wireframe-schedule.png" width="100%">	<img src="screenshots/wireframe-ph-alert.png" width="100%">	<img src="screenshots/wireframe-logs.png" width="100%">
+
+**Perform Automated Smart Feeding**
+
+![Smart Feeding Sequence](screenshots/seq-smart-feeding.png)
+
+**Dispense pH Treatment**
+
+![pH Treatment Sequence](screenshots/seq-ph-treatment.png)
+
+### Mobile App Wireframes
+
+**Dashboard**
+
+![Dashboard](screenshots/wireframe-dashboard.png)
+
+**Feeding Schedule**
+
+![Feeding Schedule](screenshots/wireframe-schedule.png)
+
+**pH Alert and Confirmation**
+
+![pH Alert](screenshots/wireframe-ph-alert.png)
+
+**Feeding Log and Trends**
+
+![Feeding Log](screenshots/wireframe-logs.png)
 
 ## Development Methodology
 The project follows the Waterfall model, chosen because hardware components and cloud infrastructure must be fully specified and procured before implementation, and because the safety-critical pH treatment feature needs careful verification at each stage.
@@ -153,7 +179,9 @@ Recruitment evaluation
 Project documentation
 Development progress presentation
 
-### Repository Structure
+## Repository Structure
+
+```
 Verivox-Showcase/
 ├── README.md
 ├── LICENSE
@@ -171,6 +199,7 @@ Verivox-Showcase/
 │   └── wireframe-logs.png
 └── docs/
     └── FYP1_Paper.pdf
+```
 
 ### Feedback
 If you notice a documentation issue, broken link, or typo, or have professional feedback about this showcase, feel free to open an issue.
