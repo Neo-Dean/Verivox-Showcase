@@ -1,5 +1,5 @@
 # Verivox-Showcase
-![Verivox Banner](assets/banner.png)
+![Verivox Banner](assets/VERIVOX.png)
 
 ## About the Project
 
